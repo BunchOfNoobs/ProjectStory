@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TheDarkAge</string>
+    <color name="red">#ffff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="purple">#ff00ff</color>
+    <color name="limegreen">#f0f0</color>
+    <color name="blue">#0f0fff</color>
+    <color name="yellow">#ffff00</color>
+    <color name="grey">#A9A9A9</color>
 </resources>
