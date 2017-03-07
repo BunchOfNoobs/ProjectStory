@@ -17,7 +17,7 @@ public class LoadingScreen extends AppCompatActivity {
             @Override
                     public void run(){
                 try{
-                    sleep(5000);
+                    sleep(3000);
                     Intent intent = new Intent(getApplicationContext(),Home.class);
                     startActivity(intent);
                     finish();
